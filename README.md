@@ -1,6 +1,6 @@
 ### Status
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FaDoRegi&theme=radical&PAT_1)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaDoRegilayout=compact&theme=radical&PAT_1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MidnightSoul10&theme=radical&PAT_1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MidnightSoul10layout=compact&theme=radical&PAT_1)
 
-### Where you can find me / Lugares Onde Voce Pode Me Encontrar
-- Youtube: [FãDoRegi](https://youtube.com/@fadoregi?si=Aru8k7IkIdmQhS5I)
+### Where you can find me
+- Youtube: [MidnightSoul10](https://youtube.com/@MidnightSoul10?si=L9hzjefI_PI02GMm)
